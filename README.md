@@ -1,6 +1,6 @@
 # lab_04
 
-A new Flutter project.
+Pizza Store Flutter Application - TMA3084.
 
 ## Getting Started
 
